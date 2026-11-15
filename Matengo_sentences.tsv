@@ -1,9 +1,11 @@
-    id	matengo_sentence	gloss	translation_sw	translation_en	speaker  notes
+    id	matengo_sentence	gloss	translation_sw	translation_en	speaker	notes
     001	mwana jujenda kusoko		mtoto anaenda sokoni	the child is going to the market	father
     002	mwana jukula kilebi		mtoto anakula chakula	the child is eating food	father
-    003	bana akula kilebi		watoto wanakula chakula	children are eating food	father
+    003	bana akula kilebi		watoto wanakula chakula	the children are eating food	father
     004	bana ngase akula kilebi		watoto hawali chakula	the children are not eating food	father
     005	mwana ngase jukula kilebi		mtoto hali chakula	the child is not eating food	father
     006	bana ba kuliki kilebi		watoto walikula chakula	the children ate food	father
     007	mwana jwi kula kilebi		mtoto atakula chakula	the child will eat food	father
     008	bana bi kula kilebi		watoto watakula chakula	the children will eat food	father
+    009	mwana jujenda kusoko		mtoto anaenda sokoni	the child is going to the market	father
+	
