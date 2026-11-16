@@ -1,5 +1,5 @@
     id	matengo_sentence	gloss	translation_sw	translation_en	speaker	notes
-    001	mwana jujenda kusoko		mtoto anaenda sokoni	the child is going to the market	father		
+    001	mwana jujenda kusoko		mtoto anaenda sokoni	the child is going to the market	father	
     002	mwana jukula kilebi		mtoto anakula chakula	the child is eating food	father	
     003	bana akula kilebi		watoto wanakula chakula	children are eating food	father	
     004	bana ngase akula kilebi		watoto hawali chakula	the children are not eating food	father	
@@ -17,31 +17,31 @@
 016	mwana ngase juhika kunyumba		mtoto haji nyumbani	child is not coming home	father 	
 017	bana bahikiki kunyumba		watoto walikuja nyumbani	children came home	father	
 018	mwana jwa hikiki kunyumba		mtoto alikuja nyumbani	child came home	father	
-019	ingoku jitenda kuha		kuku anakufa	chicken is dying	father		
-020	ingoku itenda kuha		kuku wanakufa	chickens are dying	father		
-021	ingoku ngase ikuwa		kuku hawafi	chickens are not dying	father		
-022	ingoku ja wile		kuku alikufa	chicken died	father		
-023	ingoku ya wile		kuku walikufa	chickens died	father		
+019	ingoku jitenda kuha		kuku anakufa	chicken is dying	father	
+020	ingoku itenda kuha		kuku wanakufa	chickens are dying	father	
+021	ingoku ngase ikuwa		kuku hawafi	chickens are not dying	father	
+022	ingoku ja wile		kuku alikufa	chicken died	father	
+023	ingoku ya wile		kuku walikufa	chickens died	father	
 025	mwana ju tama pi kiteo		mtoto anakaa kwenye kiti	child is sitting on chair	father	
 026	bana atama pi kiteo		watoto wanakaa kwenye kiti	children are sitting on chair	father	
 027	bana ngase atama pi kiteo		watoto hawakai kwenye kiti	children are not sitting on chair	father	
-028	bana ba tamiki pi kiteo		watoto walikaa kwenye kiti	children sat on chair	father		
+028	bana ba tamiki pi kiteo		watoto walikaa kwenye kiti	children sat on chair	father	
 029	mwana jwijibona jimbwa		mtoto anaona mbwa	a child is seeing a dog	father	
-030	bana bijibona jimbwa		watoto wanaona mbwa	children are seeing a dog	father		
-031	bana ngase bijibona jimbwa		watoto hawaoni mbwa	children are not seeing a dog	father		
+030	bana bijibona jimbwa		watoto wanaona mbwa	children are seeing a dog	father	
+031	bana ngase bijibona jimbwa		watoto hawaoni mbwa	children are not seeing a dog	father	
 032	bana bijibona jimbwa		watoto walimwona mbwa	 children saw a dog	father	
 033	mwana jubi kunyumba		mtoto yuko nyumbani	child is at home	father	
-034	bana abi kunyumba		watoto wako nyumbani	children are at home	father		
-035	mwana ngase jubi kunyumba		mtoto hayuko nyumbani	child is not at home	father		
-036	bana ngase abi kunyumba		watoto hawako nyumbani	children are not at home	father		
-037	mwana jwabi kunyumba		mtoto alikuwa nyumbani	child was at home	father		
-038	bana babi kunyumba		watoto walikuwa nyumbani	children were at home	father		
-039	mwana mwalimu		mtoto ni mwalimu	child is a teacher	father		
-040	bana aka mwalimu		watoto ni walimu	children are teachers	father		
-041	mwana nga mwalimu		mtoto si mwalimu	child is not a teacher	father		
-042	nepane mi ni imbui		mimi nina mbuzi	i have a goat	father		
-043	jombi jubi ni imbui		yeye ana mbuzi	he has a goat	father		
-044	bombi abi ni imbui		wao wana mbuzi	they have a goat	father		
-045	jombi ngase jubi ni imbui		yeye hana mbuzi	he does not have a goat	father		
-046	bombi ngase abi ni imbui		wao hawana mbuzi	they have a goat	father		
+034	bana abi kunyumba		watoto wako nyumbani	children are at home	father	
+035	mwana ngase jubi kunyumba		mtoto hayuko nyumbani	child is not at home	father	
+036	bana ngase abi kunyumba		watoto hawako nyumbani	children are not at home	father	
+037	mwana jwabi kunyumba		mtoto alikuwa nyumbani	child was at home	father	
+038	bana babi kunyumba		watoto walikuwa nyumbani	children were at home	father	
+039	mwana mwalimu		mtoto ni mwalimu	child is a teacher	father	
+040	bana aka mwalimu		watoto ni walimu	children are teachers	father	
+041	mwana nga mwalimu		mtoto si mwalimu	child is not a teacher	father	
+042	nepane mi ni imbui		mimi nina mbuzi	i have a goat	father	
+043	jombi jubi ni imbui		yeye ana mbuzi	he has a goat	father	
+044	bombi abi ni imbui		wao wana mbuzi	they have a goat	father	
+045	jombi ngase jubi ni imbui		yeye hana mbuzi	he does not have a goat	father	
+046	bombi ngase abi ni imbui		wao hawana mbuzi	they have a goat	father	
 
