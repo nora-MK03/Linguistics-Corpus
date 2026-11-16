@@ -26,4 +26,22 @@
 026	bana atama pi kiteo		watoto wanakaa kwenye kiti	children are sitting on chair	father	
 027	bana ngase atama pi kiteo		watoto hawakai kwenye kiti	children are not sitting on chair	father	
 028	bana ba tamiki pi kiteo		watoto walikaa kwenye kiti	children sat on chair	father	
+029	mwana jwijibona jimbwa		mtoto anaona mbwa		
+030	bana bijibona jimbwa		watoto wanaona mbwa
+031	bana ngase bijibona jimbwa		watoto hawaoni mbwa
+032	bana bijibona jimbwa		watoto walimwona mbwa
+033	mwana jubi kunyumba		mtoto yuko nyumbani
+034	bana abi kunyumba		watoto wako nyumbani
+035	mwana ngase jubi kunyumba		mtoto hayuko nyumbani
+036	bana ngase abi kunyumba		watoto hawako nyumbani
+037	mwana jwabi kunyumba		mtoto alikuwa nyumbani
+038	bana babi kunyumba		watoto walikuwa nyumbani
+039	mwana mwalimu		mtoto ni mwalimu
+040	bana aka mwalimu		watoto ni walimu
+041	mwana nga mwalimu		mtoto si mwalimu
+042	nepane mi ni imbui		mimi nina mbuzi
+043	jombi jubi ni imbui		yeye ana mbuzi
+044	bombi abi ni imbui		wao wana mbuzi
+045	jombi ngase jubi ni imbui		yeyeb hana mbuzi
+046	bombi ngase abi ni imbui		wao hawana mbuzi
 
