@@ -44,4 +44,31 @@
 044	bombi abi ni imbui		wao wana mbuzi	they have a goat	father	
 045	jombi ngase jubi ni imbui		yeye hana mbuzi	he does not have a goat	father	
 046	bombi ngase abi ni imbui		wao hawana mbuzi	they have a goat	father	
+047	nepane ngula kilebi		mimi ninakula chakula	i am eating food	father	
+048	gwe hapa gukula kilebi		wewe unakula chakula	you are eating food	father	
+049	twe pani tukula kilebi		sisi tunakula chakula	we are eating food	father	
+050	mmbanganya n,kula kilebi		ninyi mnakula chakula	they are eating food	father	check eng trans
+051	nepane ngase ngula kilebi		mimi sili chakula	i am not eating food	father	
+052	gwe ngase gukula kilebi		wewe huli chakula	you are not eating food	father	
+053	twepane ngase tukula kilebi		sisi hatuli chakula	we are not eating food	father	
+054	mmbanganya ngase n,kula kilebi		ninyi hamli chakula	they are not eating food	father	check eng trans
+055	kula kilebi		kula chakula	eat food	father	
+056	n,kula kilebi		kuleni chakula	eat food	father	check eng trans
+057	gwikula kilebi		usile chakula	do not eat food	father	
+058	mwikula kilebi		msile chakula	do not eat food	father	check
+059	hika pamba		njoo hapa	come here	father	
+060	nhikanwa pamba		njooni hapa	come here all	father	check
+061	jenda kunyumba		nenda nyumbani	go home	father	
+062	jendanwa kunyumba		nendeni nyumbani	go home	father	check
+063	mundu/bandu		mtu/watu	person/people	father	
+064	mmbomba/akambomba		mwanamke/wanawake	woman/women	father	
+065	mwanalomi/akalomi		mwanaume/wanaume	man/men	father	
+066	kiteo/iteo		kiti/viti	chair/chairs	father	
+067	imbui/imbui		mbuzi/mbuzi	goat/goats	father	no plural in both swahili and matengo
+068	mwana jujenda kusoko		mtoto anaenda sokoni	child is going to market	father	check
+069	bana ajenda kusoko		watoto wanaenda sokoni	children are going to the market	father	
+070	bana ngase ajenda kusoko		watoto hawaendi sokoni	children are not going to the market	father	
+071	mwana ngase jujenda kusoko		mtoto haendi sokoni	child is not going to the market	father	
+072	bana bapiti kusoko		watoto walienda sokoni	children went to the market	father	
+073	mwana jwa piti kusoko		mtoto alienda sokoni	child went to the market	father	
 
